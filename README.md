@@ -6,4 +6,4 @@ People with disabilities may find it hard to navigate and interact with webpages
 When working with other developers it is important to add semantic HTML tags to allow others to gain a better understading of the function of a webpage.
 
 ## Deployment
-This project is deployed through [Github pages](/https://dempleon.github.io/Horiseon/). 
+This project is deployed through [Github pages](https://dempleon.github.io/Horiseon/). 
