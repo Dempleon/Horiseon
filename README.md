@@ -10,3 +10,9 @@ In order to present well written code, redundancies and unneeded extra code are 
 
 ## Deployment
 This project is deployed through [Github pages](https://dempleon.github.io/Horiseon/). 
+
+## Developer notes
+There are a few things I learned through working with this project:
+-how links work in the nav bar to navigate to a different section of the page
+-css class selectors, element selectors
+-the importance of alt attributes to a webpage
